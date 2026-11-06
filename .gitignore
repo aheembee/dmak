@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# runtime data (inbox, subscribers, analytics) — back up separately
+data/*.json
+
+# deps / caches
+node_modules/
+.cache/
+.netlify/
+.DS_Store
+*.log

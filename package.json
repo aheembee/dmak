@@ -1,0 +1,16 @@
+{
+  "name": "dmak-music-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website for D_MAK MUSIC — Ugandan recording artist. Server-rendered, zero dependencies.",
+  "main": "server.js",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js",
+    "health": "node -e \"fetch('http://localhost:'+(process.env.PORT||3000)+'/api/health').then(r=>r.text()).then(console.log)\"",
+    "smoke": "node scripts/smoke-test.js"
+  },
+  "keywords": ["artist-website", "music", "uganda", "afro-pop", "uganda-music"],
+  "license": "UNLICENSED"
+}

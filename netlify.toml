@@ -1,0 +1,56 @@
+# ---------------------------------------------------------------------------
+# D_MAK MUSIC — Netlify deployment
+# Static assets are served straight from the CDN (public/); every page route and
+# /api/* is handled by the Node function in netlify/functions/server.js.
+# ---------------------------------------------------------------------------
+
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+  command = "echo 'D_MAK MUSIC — no build step required'"
+
+[functions]
+  node_version = "20"
+  # Files the function reads at runtime with fs (not traced by require()):
+  included_files = [
+    "content/**",
+    "data/**",
+    "lib/**",
+    "public/**"
+  ]
+
+# --- API must reach the function -------------------------------------------
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/server"
+  status = 200
+
+# --- Every page route (and the custom 404) is server-rendered ---------------
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/server"
+  status = 200
+
+# --- Headers ---------------------------------------------------------------
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+    Content-Security-Policy = "default-src 'self'; img-src 'self' data: blob:; style-src 'self' 'unsafe-inline'; script-src 'self'; font-src 'self'; media-src 'self' blob:; frame-src https://www.youtube.com https://www.youtube-nocookie.com; connect-src 'self'; base-uri 'none'; form-action 'self'"
+
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000, immutable"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000, immutable"
+
+[[headers]]
+  for = "/files/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"

@@ -1,0 +1,877 @@
+{
+  "meta": {
+    "contentVersion": 3,
+    "updatedAt": "2026-11-06",
+    "showReviewNotices": true,
+    "reviewNoticeCopy": "Marked items are awaiting confirmation from the artist or management before public launch."
+  },
+  "site": {
+    "title": "D_MAK MUSIC — Official Site",
+    "name": "D_MAK MUSIC",
+    "url": "https://dmakmusic.com",
+    "description": "Official website of D_MAK (Wandera David Musamya), Ugandan recording artist from Busia. Luganda love records, new music, videos and booking.",
+    "keywords": "D_MAK, D-Mak, D Mak Music, Ugandan artist, Luganda music, Afro-pop Uganda, Busia, Yuut Empire, Davmak, new Ugandan music",
+    "locale": "en_UG",
+    "themeColor": "#08060f",
+    "ogImage": "/img/og/dmak-og.jpg",
+    "analytics": {
+      "enabled": true,
+      "mode": "self-hosted, cookieless pageview counter",
+      "note": "No cookies, no personal identifiers, no third-party scripts. Only a normalised path and a timestamp are stored, aggregated in /admin."
+    }
+  },
+  "artist": {
+    "name": "D_MAK",
+    "displayName": "D_MAK MUSIC",
+    "aliasLine": "Wandera David Musamya",
+    "alsoKnownAs": [
+      "D-Mak",
+      "D Mak",
+      "D Mak Music",
+      "Davmak",
+      "Dmak"
+    ],
+    "origin": "Busia, Eastern Uganda",
+    "based": "Uganda",
+    "activeSince": "2016",
+    "tagline": "Luganda soul. Neon future.",
+    "signature": "Every heart runs on a frequency.",
+    "positioning": "D_MAK is a Ugandan recording artist turning Luganda love songs into widescreen, after-midnight pop — made in Busia, built for the whole internet.",
+    "shortBio": "Wandera David Musamya — D_MAK — is a Ugandan recording artist from Busia who started writing songs in school in 2016 and never put the pen down. Since 2022 he has released a steady run of Luganda love records — Nkulina, Ogonda Nnyo, Bitandike, Ffe Tuliko, Naawe — melodies built for headphones at 2AM and for the crowded taxi home.",
+    "cinematicIntro": "A room in Busia. A phone torch, a borrowed beat, a hook hummed until the neighbours know it by heart. Ten years later the same voice is cutting through speakers in Kampala — a little deeper, a lot more certain — still singing in Luganda about the one person who makes the long road worth it.",
+    "longBio": [],
+    "philosophy": "A song is not finished when it is mixed. It is finished when somebody in another language knows exactly what it means. I write Luganda records for that moment — when a hook crosses the border without needing a translation.",
+    "vision": "To build a catalogue that travels: Luganda melodies in global playlists, Ugandan storytelling in cinematic visuals, and a fan community that treats the artist like a frequency they discovered first.",
+    "influences": {
+      "note": "Named influences to be confirmed by the artist — the list below describes audible territory, not stated idols.",
+      "verified": false,
+      "territories": [
+        "Ugandan Afro-pop",
+        "Luganda love songs",
+        "Afro-dancehall",
+        "East African R&B",
+        "Kampala street pop"
+      ]
+    },
+    "facts": [
+      {
+        "label": "Name",
+        "value": "Wandera David Musamya"
+      },
+      {
+        "label": "Stage names",
+        "value": "D_MAK / D-Mak / Davmak"
+      },
+      {
+        "label": "Origin",
+        "value": "Busia town, Eastern Uganda"
+      },
+      {
+        "label": "Active since",
+        "value": "2016"
+      },
+      {
+        "label": "Language",
+        "value": "Luganda, English"
+      },
+      {
+        "label": "Imprints",
+        "value": "Yuut Empire · Davmak city · Silence town"
+      },
+      {
+        "label": "Producers",
+        "value": "Melo Killit · Silence"
+      },
+      {
+        "label": "Visual direction",
+        "value": "Kai Designz"
+      }
+    ],
+    "careerHighlights": [
+      {
+        "year": "2016",
+        "title": "First recordings",
+        "text": "Starts writing and recording while still in school, developing a Luganda songwriting voice.",
+        "verification": "verified"
+      },
+      {
+        "year": "2022",
+        "title": "Tubikole & Nkulina",
+        "text": "Two singles land on streaming and social, establishing the name with local listeners.",
+        "verification": "verified"
+      },
+      {
+        "year": "2023",
+        "title": "Nkulina official video",
+        "text": "The Nkulina video premieres on 9 February 2023 through Yuut Empire and passes 11,300 views — the biggest visual statement of his catalogue to date.",
+        "verification": "verified"
+      },
+      {
+        "year": "2023",
+        "title": "Ogonda Nnyo",
+        "text": "Released 6 April 2023; the record becomes the most-used D_MAK sound on his TikTok, carried by user clips and dance videos.",
+        "verification": "verified"
+      },
+      {
+        "year": "2024",
+        "title": "Three releases in one year",
+        "text": "Bitandike (February), Ffe Tuliko (May) and the Sera Biebe duet Only You (August) arrive inside eight months.",
+        "verification": "verified"
+      },
+      {
+        "year": "2025",
+        "title": "Independent era",
+        "text": "Wadala, Bwotyo and Naawe are released under his own imprint names Davmak city and Silence town, with Melo Killit and Silence producing.",
+        "verification": "verified"
+      }
+    ]
+  },
+  "socials": [
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "handle": "@d_mak_music",
+      "url": "https://www.instagram.com/d_mak_music/",
+      "verified": true,
+      "note": "Profile exists but is private/login-walled to crawlers — feed integration requires a Meta Graph token (see README)."
+    },
+    {
+      "id": "tiktok",
+      "label": "TikTok",
+      "handle": "@d.makmusic",
+      "url": "https://www.tiktok.com/@d.makmusic",
+      "verified": true,
+      "note": "Primary clip channel — #ogonda, #nkulina, #tubikole sounds."
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "handle": "@YuteEmpire",
+      "url": "https://www.youtube.com/@YuteEmpire",
+      "verified": true,
+      "note": "Label channel hosting D_MAK's official videos. An artist-owned channel should be confirmed."
+    },
+    {
+      "id": "deezer",
+      "label": "Deezer",
+      "handle": "D-Mak",
+      "url": "https://www.deezer.com/artist/5432196",
+      "verified": true,
+      "note": "Full released catalogue."
+    },
+    {
+      "id": "apple",
+      "label": "Apple Music",
+      "handle": "D-Mak",
+      "url": "https://music.apple.com/ug/artist/d-mak/258998257",
+      "verified": false,
+      "note": "Artist page carries a mixed catalogue — claim and clean before launch."
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon Music",
+      "handle": "D-Mak",
+      "url": "https://www.amazon.com/Ffe-Tuliko-D-Mak/dp/B0D5KXDZF1",
+      "verified": true,
+      "note": "Verified release page."
+    },
+    {
+      "id": "spotify",
+      "label": "Spotify",
+      "handle": "",
+      "url": "",
+      "verified": false,
+      "note": "No official profile URL found — supply to activate."
+    },
+    {
+      "id": "boomplay",
+      "label": "Boomplay",
+      "handle": "",
+      "url": "",
+      "verified": false,
+      "note": "No official profile URL found — supply to activate."
+    },
+    {
+      "id": "audiomack",
+      "label": "Audiomack",
+      "handle": "",
+      "url": "",
+      "verified": false,
+      "note": "No official profile URL found — supply to activate."
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "handle": "",
+      "url": "",
+      "verified": false,
+      "note": "No official page verified — supply to activate."
+    },
+    {
+      "id": "x",
+      "label": "X",
+      "handle": "",
+      "url": "",
+      "verified": false,
+      "note": "No official account verified — supply to activate."
+    }
+  ],
+  "releases": [
+    {
+      "id": "naawe",
+      "title": "Naawe",
+      "type": "Single",
+      "releaseDate": "2025-11-27",
+      "year": "2025",
+      "label": "Silence town",
+      "artwork": "/img/covers/naawe.jpg",
+      "artworkCredit": "Official release artwork — Kai Designz",
+      "duration": 121,
+      "featured": true,
+      "featuredRank": 1,
+      "summary": "The newest chapter: a gold-lit devotion record that trades speed for sincerity.",
+      "story": "Naawe — 'with you' — is D_MAK at his most direct. Produced by Melo Killit and Silence, it is a two-minute promise rather than a three-minute performance, and it sets the tone for the next body of work.",
+      "credits": [
+        "Produced by Melo Killit",
+        "Produced by Silence",
+        "Artwork by Kai Designz"
+      ],
+      "tracks": [
+        {
+          "title": "Naawe",
+          "duration": 121,
+          "deezerId": 3733035092
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/882816832",
+        "apple": "https://music.apple.com/ug/album/naawe/1863511750",
+        "amazon": "",
+        "youtube": ""
+      },
+      "deezerAlbumId": 882816832,
+      "verification": "verified"
+    },
+    {
+      "id": "bwotyo",
+      "title": "Bwotyo",
+      "type": "Single",
+      "releaseDate": "2025-02-20",
+      "year": "2025",
+      "label": "Davmak city",
+      "artwork": "/img/covers/bwotyo.jpg",
+      "artworkCredit": "Official release artwork",
+      "duration": 139,
+      "featured": true,
+      "featuredRank": 3,
+      "summary": "A warm, close-mic'd groove about loving somebody exactly as they are.",
+      "story": "Bwotyo — 'that's how it is' — is the shrug that turns into a hook. Released under his own Davmak city imprint.",
+      "credits": [
+        "Written by Davmak",
+        "Released via Davmak city"
+      ],
+      "tracks": [
+        {
+          "title": "Bwotyo",
+          "duration": 139,
+          "deezerId": 3271046621
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/724977831",
+        "apple": "https://music.apple.com/ug/album/bwotyo/1801860865",
+        "amazon": "",
+        "youtube": ""
+      },
+      "deezerAlbumId": 724977831,
+      "verification": "verified"
+    },
+    {
+      "id": "wadala",
+      "title": "Wadala (Cruise on Dance Version)",
+      "type": "Single",
+      "releaseDate": "2025-01-09",
+      "year": "2025",
+      "label": "Davmak city",
+      "artwork": "/img/covers/wadala.jpg",
+      "artworkCredit": "Official release artwork",
+      "duration": 166,
+      "featured": false,
+      "summary": "The dance-floor edit: same song, wider shoulders, more room to move.",
+      "story": "A re-cut of Wadala built for the cruise — the version that earns its place in a DJ set rather than a headphones session.",
+      "credits": [
+        "Released via Davmak city"
+      ],
+      "tracks": [
+        {
+          "title": "Wadala (Cruise on Dance Version)",
+          "duration": 166,
+          "deezerId": 3190689281
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/699257711",
+        "apple": "https://music.apple.com/ug/album/wadala-cruise-on-dance-version/1791147141",
+        "amazon": "",
+        "youtube": ""
+      },
+      "deezerAlbumId": 699257711,
+      "verification": "verified"
+    },
+    {
+      "id": "only-you",
+      "title": "Only You",
+      "type": "Single",
+      "releaseDate": "2024-08-02",
+      "year": "2024",
+      "label": "Yuut Empire",
+      "artwork": "/img/covers/only-you.jpg",
+      "artworkCredit": "Official release artwork",
+      "duration": 171,
+      "featured": true,
+      "featuredRank": 2,
+      "summary": "The duet. D_MAK and Sera Biebe trading lines over a slow-burning, rose-lit production.",
+      "story": "Only You is the collaboration that widened the room: two voices, one argument about who loves who more, resolved in the chorus.",
+      "credits": [
+        "Featuring Sera Biebe",
+        "Written by Davmak",
+        "Released via Yuut Empire"
+      ],
+      "tracks": [
+        {
+          "title": "Only You",
+          "duration": 171,
+          "deezerId": 2936467261
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/625882661",
+        "apple": "https://music.apple.com/ug/album/only-you-feat-d-mak/1764329146",
+        "amazon": "",
+        "youtube": ""
+      },
+      "deezerAlbumId": 625882661,
+      "verification": "verified"
+    },
+    {
+      "id": "ffe-tuliko",
+      "title": "Ffe Tuliko",
+      "type": "Single",
+      "releaseDate": "2024-05-26",
+      "year": "2024",
+      "label": "Yuut Empire",
+      "artwork": "/img/covers/ffe-tuliko.jpg",
+      "artworkCredit": "Official release artwork",
+      "duration": 150,
+      "featured": false,
+      "summary": "Confidence record. 'We are here' — a statement of arrival in two and a half minutes.",
+      "story": "Ffe Tuliko is the sound of a young artist staking a claim, with the sweetest possible delivery.",
+      "credits": [
+        "Written by Davmak",
+        "Composed by Davmak",
+        "Released via Yuut Empire"
+      ],
+      "tracks": [
+        {
+          "title": "Ffe Tuliko",
+          "duration": 150,
+          "deezerId": 2824535292
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/594125022",
+        "apple": "",
+        "amazon": "https://www.amazon.com/Ffe-Tuliko-D-Mak/dp/B0D5KXDZF1",
+        "youtube": ""
+      },
+      "deezerAlbumId": 594125022,
+      "verification": "verified"
+    },
+    {
+      "id": "bitandike",
+      "title": "Bitandike",
+      "type": "Single",
+      "releaseDate": "2024-02-28",
+      "year": "2024",
+      "label": "Yuut Empire",
+      "artwork": "/img/covers/bitandike.jpg",
+      "artworkCredit": "Official release artwork — Yuut Empire",
+      "duration": 197,
+      "featured": false,
+      "summary": "Violet-lit and patient: 'let's start' — the most cinematic three minutes in the catalogue.",
+      "story": "Bitandike opens with air and lets the beat arrive late, giving the vocal the whole frame. The artwork set the visual language the later covers followed.",
+      "credits": [
+        "Written by Davmak",
+        "Composed by D-Mak",
+        "Released via Yuut Empire"
+      ],
+      "tracks": [
+        {
+          "title": "Bitandike",
+          "duration": 197,
+          "deezerId": 2705752882
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/560705862",
+        "apple": "",
+        "amazon": "",
+        "youtube": ""
+      },
+      "deezerAlbumId": 560705862,
+      "verification": "verified"
+    },
+    {
+      "id": "ogonda-nnyo",
+      "title": "Ogonda Nnyo",
+      "type": "Single",
+      "releaseDate": "2023-04-06",
+      "year": "2023",
+      "label": "Yuut Empire",
+      "artwork": "/img/covers/ogonda-nnyo.jpg",
+      "artworkCredit": "Official release artwork — Yuut Empire",
+      "duration": 169,
+      "featured": true,
+      "featuredRank": 4,
+      "summary": "The crimson one. 'You love me so much' — his most-used sound across TikTok, and still the live favourite.",
+      "story": "Ogonda Nnyo is the record that moved the name from a local playlist to a shared sound. Clips using the song built its second life: dancers, couples, and caption videos carrying the hook further than any single post could.",
+      "credits": [
+        "Composed by Wandera David",
+        "Released via Yuut Empire"
+      ],
+      "tracks": [
+        {
+          "title": "Ogonda Nnyo",
+          "duration": 169,
+          "deezerId": 2227068787
+        }
+      ],
+      "links": {
+        "deezer": "https://www.deezer.com/album/426848877",
+        "apple": "",
+        "amazon": "",
+        "youtube": ""
+      },
+      "deezerAlbumId": 426848877,
+      "verification": "verified",
+      "appleNote": "Apple Music album URL not verified — supply to activate."
+    },
+    {
+      "id": "nkulina",
+      "title": "Nkulina",
+      "type": "Single",
+      "releaseDate": "2022-12-12",
+      "year": "2022",
+      "label": "Yuut Empire",
+      "artwork": "/img/covers/yt-hqdefault.jpg",
+      "artworkCredit": "Still from the official video (Yuut Empire, 2023)",
+      "duration": 186,
+      "featured": true,
+      "featuredRank": 5,
+      "summary": "Where the story compounds — the first D_MAK record with a full official video behind it.",
+      "story": "Nkulina premiered as a single in December 2022 and became a video on 9 February 2023 through Yuut Empire. It remains the clearest early document of the D_MAK visual world: colour, confidence, and a chorus that refuses to sit down.",
+      "credits": [
+        "Released via Yuut Empire",
+        "Official video directed for Yuut Empire"
+      ],
+      "tracks": [
+        {
+          "title": "Nkulina",
+          "duration": 186,
+          "deezerId": null
+        }
+      ],
+      "links": {
+        "deezer": "",
+        "apple": "",
+        "amazon": "",
+        "youtube": "https://www.youtube.com/watch?v=Q6fxhHkJBug"
+      },
+      "verification": "verified",
+      "appleNote": "Apple Music album URL not verified — supply to activate."
+    },
+    {
+      "id": "tubikole",
+      "title": "Tubikole",
+      "type": "Single",
+      "releaseDate": "2022-08-02",
+      "year": "2022",
+      "label": "Yuut Empire",
+      "artwork": null,
+      "artworkCredit": "",
+      "duration": 203,
+      "featured": false,
+      "summary": "'Let's do it.' The first single of the run that made the name.",
+      "story": "Tubikole is the earliest D_MAK single still in circulation on streaming — the starting point of the catalogue documented here.",
+      "credits": [
+        "Released via Yuut Empire"
+      ],
+      "tracks": [
+        {
+          "title": "Tubikole",
+          "duration": 203,
+          "deezerId": null
+        }
+      ],
+      "links": {
+        "deezer": "",
+        "apple": "",
+        "amazon": "",
+        "youtube": ""
+      },
+      "verification": "verified",
+      "appleNote": "Apple Music album URL not verified — supply to activate.",
+      "pendingLinks": true,
+      "linksNote": "Apple Music listing confirms this single exists, but no stable public URL could be verified. Supply links in the CMS."
+    }
+  ],
+  "videos": [
+    {
+      "id": "nkulina-video",
+      "title": "Nkulina (Official Video)",
+      "category": "Music Video",
+      "youtubeId": "Q6fxhHkJBug",
+      "channel": "Yuut Empire",
+      "publishedAt": "2023-02-09",
+      "duration": "3:06",
+      "thumb": "/img/covers/yt-hqdefault.jpg",
+      "description": "The official Nkulina video, premiered 9 February 2023 through Yuut Empire.",
+      "viewsNote": "11,300+ views at time of research (Nov 2026)",
+      "verification": "verified"
+    }
+  ],
+  "videoSlots": [
+    {
+      "category": "Visualizer",
+      "note": "Reserved slot — add a YouTube ID in /admin once a visualizer is published."
+    },
+    {
+      "category": "Live Performance",
+      "note": "Reserved slot — no verified live footage published yet."
+    },
+    {
+      "category": "Behind the Scenes",
+      "note": "Reserved slot — studio footage to be supplied by the artist."
+    },
+    {
+      "category": "Interview / Documentary",
+      "note": "Reserved slot — no verified interview footage found."
+    }
+  ],
+  "news": [
+    {
+      "id": "news-naawe",
+      "date": "2025-11-27",
+      "category": "Release",
+      "title": "‘Naawe’ is out now",
+      "excerpt": "The new single, produced by Melo Killit and Silence, leads the next chapter of the D_MAK catalogue.",
+      "body": "Naawe arrives on every major platform via Silence town. Two minutes of devotion, gold artwork, and a hook designed to be sung back.",
+      "link": "/music#naawe",
+      "verification": "verified"
+    },
+    {
+      "id": "news-bwotyo",
+      "date": "2025-02-20",
+      "category": "Release",
+      "title": "‘Bwotyo’ released",
+      "excerpt": "The second Davmak city single of 2025, warm and close-mic'd.",
+      "body": "Bwotyo continues the independent run that began with Wadala in January.",
+      "link": "/music#bwotyo",
+      "verification": "verified"
+    },
+    {
+      "id": "news-wadala",
+      "date": "2025-01-09",
+      "category": "Release",
+      "title": "‘Wadala (Cruise on Dance Version)’ lands",
+      "excerpt": "A dance-forward re-cut of Wadala, built for the set rather than the sofa.",
+      "body": "The first release on the Davmak city imprint.",
+      "link": "/music#wadala",
+      "verification": "verified"
+    },
+    {
+      "id": "news-only-you",
+      "date": "2024-08-02",
+      "category": "Collaboration",
+      "title": "D_MAK × Sera Biebe — ‘Only You’",
+      "excerpt": "The catalogue's first high-profile duet, released through Yuut Empire.",
+      "body": "Only You pairs D_MAK with Sera Biebe across a slow-burning production written by Davmak.",
+      "link": "/music#only-you",
+      "verification": "verified"
+    },
+    {
+      "id": "news-ffe-tuliko",
+      "date": "2024-05-26",
+      "category": "Release",
+      "title": "‘Ffe Tuliko’ released",
+      "excerpt": "Arrival, stated sweetly — the second 2024 single.",
+      "body": "",
+      "link": "/music#ffe-tuliko",
+      "verification": "verified"
+    },
+    {
+      "id": "news-bitandike",
+      "date": "2024-02-28",
+      "category": "Release",
+      "title": "‘Bitandike’ released",
+      "excerpt": "The violet-lit single that opened 2024 and reset the visual language.",
+      "body": "",
+      "link": "/music#bitandike",
+      "verification": "verified"
+    },
+    {
+      "id": "news-ogonda",
+      "date": "2023-04-06",
+      "category": "Release",
+      "title": "‘Ogonda Nnyo’ released",
+      "excerpt": "The crimson record that became his most-used sound on TikTok.",
+      "body": "",
+      "link": "/music#ogonda-nnyo",
+      "verification": "verified"
+    },
+    {
+      "id": "news-nkulina-video",
+      "date": "2023-02-09",
+      "category": "Visual",
+      "title": "‘Nkulina’ official video premieres",
+      "excerpt": "The first full visual statement of the D_MAK world, via Yuut Empire.",
+      "body": "",
+      "link": "/videos",
+      "verification": "verified"
+    },
+    {
+      "id": "news-nkulina",
+      "date": "2022-12-12",
+      "category": "Release",
+      "title": "‘Nkulina’ single released",
+      "excerpt": "The record that started the documented run.",
+      "body": "",
+      "link": "/music#nkulina",
+      "verification": "verified"
+    }
+  ],
+  "events": {
+    "note": "No performance dates have been announced publicly at the time of research (6 November 2026). This section is pre-wired: add dates in /admin and they publish instantly with ticket links and structured data.",
+    "upcoming": [],
+    "past": []
+  },
+  "gallery": [
+    {
+      "id": "g-naawe",
+      "src": "/img/covers/naawe.jpg",
+      "title": "Naawe — campaign artwork",
+      "category": "Campaign",
+      "credit": "Kai Designz",
+      "year": "2025"
+    },
+    {
+      "id": "g-bwotyo",
+      "src": "/img/covers/bwotyo.jpg",
+      "title": "Bwotyo — cover",
+      "category": "Artwork",
+      "credit": "Davmak city",
+      "year": "2025"
+    },
+    {
+      "id": "g-wadala",
+      "src": "/img/covers/wadala.jpg",
+      "title": "Wadala — cover",
+      "category": "Artwork",
+      "credit": "Davmak city",
+      "year": "2025"
+    },
+    {
+      "id": "g-only-you",
+      "src": "/img/covers/only-you.jpg",
+      "title": "Only You — cover",
+      "category": "Collaboration",
+      "credit": "Yuut Empire",
+      "year": "2024"
+    },
+    {
+      "id": "g-ffe",
+      "src": "/img/covers/ffe-tuliko.jpg",
+      "title": "Ffe Tuliko — cover",
+      "category": "Artwork",
+      "credit": "Yuut Empire",
+      "year": "2024"
+    },
+    {
+      "id": "g-bitandike",
+      "src": "/img/covers/bitandike.jpg",
+      "title": "Bitandike — cover",
+      "category": "Artwork",
+      "credit": "Yuut Empire",
+      "year": "2024"
+    },
+    {
+      "id": "g-ogonda",
+      "src": "/img/covers/ogonda-nnyo.jpg",
+      "title": "Ogonda Nnyo — cover",
+      "category": "Campaign",
+      "credit": "Yuut Empire",
+      "year": "2023"
+    },
+    {
+      "id": "g-nkulina",
+      "src": "/img/covers/yt-hqdefault.jpg",
+      "title": "Nkulina — official video still",
+      "category": "Video",
+      "credit": "Yuut Empire",
+      "year": "2023"
+    }
+  ],
+  "contact": {
+    "bookingEmail": "",
+    "managementEmail": "",
+    "pressEmail": "",
+    "phone": "",
+    "location": "Uganda",
+    "routes": [
+      {
+        "id": "booking",
+        "label": "Booking",
+        "description": "Shows, festivals, private events and club appearances.",
+        "verified": true
+      },
+      {
+        "id": "collaboration",
+        "label": "Collaboration",
+        "description": "Features, production and songwriting enquiries.",
+        "verified": true
+      },
+      {
+        "id": "management",
+        "label": "Management",
+        "description": "Representation, label and business matters.",
+        "verified": true
+      },
+      {
+        "id": "press",
+        "label": "Press & media",
+        "description": "Interviews, features, assets and accreditation.",
+        "verified": true
+      }
+    ],
+    "inboxNote": "Every enquiry through this site is validated and stored in the private site inbox, visible only to the artist in /admin. Add a booking email address to have a copy routed there as well."
+  },
+  "epk": {
+    "title": "D_MAK — Electronic Press Kit",
+    "headline": "Ugandan Afro-pop, built for the world after midnight.",
+    "oneLiner": "D_MAK (Wandera David Musamya) is a Ugandan recording artist from Busia whose Luganda love records — Nkulina, Ogonda Nnyo, Bitandike, Naawe — have travelled further than any single post.",
+    "fastFacts": [
+      {
+        "label": "Origin",
+        "value": "Busia, Eastern Uganda"
+      },
+      {
+        "label": "Active since",
+        "value": "2016"
+      },
+      {
+        "label": "Language",
+        "value": "Luganda / English"
+      },
+      {
+        "label": "Sound",
+        "value": "Luganda afro-pop · love songs · afro-dancehall"
+      },
+      {
+        "label": "Releases documented",
+        "value": "9 singles (2022–2025)"
+      },
+      {
+        "label": "Imprints",
+        "value": "Yuut Empire · Davmak city · Silence town"
+      },
+      {
+        "label": "Key collaborators",
+        "value": "Sera Biebe · Melo Killit · Silence"
+      },
+      {
+        "label": "Territory",
+        "value": "Uganda, East Africa, diaspora"
+      }
+    ],
+    "assets": [
+      {
+        "label": "Cover artwork pack",
+        "path": "/img/covers/naawe.jpg",
+        "note": "Full-resolution release artwork for all documented singles."
+      },
+      {
+        "label": "Artist portrait",
+        "path": "",
+        "note": "Awaiting licensed photography from management."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A song is not finished when it is mixed. It is finished when somebody in another language knows exactly what it means.",
+        "attribution": "D_MAK"
+      }
+    ]
+  },
+  "integrations": {
+    "instagram": {
+      "enabled": false,
+      "mode": "Instagram Basic Display / Graph API",
+      "setup": "Add INSTAGRAM_ACCESS_TOKEN (a long-lived token for the @d_mak_music account) to your environment. The server then proxies /api/instagram and the Connect page renders a live feed. Until a token exists, the page renders the verified fallback tiles instead of pretending to be live.",
+      "fallbackNote": "Live feed off — showing verified static tiles."
+    },
+    "youtube": {
+      "enabled": false,
+      "channelHandle": "@YuteEmpire",
+      "setup": "Add YOUTUBE_API_KEY and YOUTUBE_CHANNEL_ID to pull the channel's uploads automatically. Video embeds work without a key; only the automatic channel sync needs one."
+    },
+    "previews": {
+      "enabled": true,
+      "mode": "Server-side proxy of 30-second Deezer preview clips",
+      "note": "Previews are fetched fresh on each request from Deezer's public API and streamed through /api/preview/:trackId — no audio is stored on this server. Disable with PREVIEWS=off."
+    },
+    "newsletter": {
+      "enabled": true,
+      "mode": "Stored in data/subscribers.json",
+      "note": "Set MAILCHIMP_* or BUTTONDOWN_API_KEY in the environment to also forward new subscribers to an email provider."
+    },
+    "contact": {
+      "enabled": true,
+      "mode": "Stored in data/messages.json",
+      "note": "Set SMTP_URL or a transactional provider key to also email enquiries to the booking address."
+    }
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Music",
+      "href": "/music"
+    },
+    {
+      "label": "Videos",
+      "href": "/videos"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "News",
+      "href": "/news"
+    },
+    {
+      "label": "Events",
+      "href": "/events"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Connect",
+      "href": "/connect"
+    }
+  ]
+}
