@@ -5,6 +5,7 @@
 
 # runtime data (inbox, subscribers, analytics) — back up separately
 data/*.json
+!data/.gitkeep
 
 # deps / caches
 node_modules/
