@@ -13,7 +13,6 @@
   NODE_VERSION = "20"
 
 [functions]
-  runtime = "nodejs20.x"
   # Files the function reads at runtime with fs (not traced by require()):
   included_files = [
     "content/**",
